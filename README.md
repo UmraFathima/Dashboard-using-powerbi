@@ -19,6 +19,7 @@ Once the KPIs are identified, the dashboard can be designed to provide a visual 
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : Since the data contains various cricekt attributes, thus in order to represent attributes, a new visual was added using the three ellipses in the visualizations pane in report view. 
 - Step 8 : A bar chart was also added to the report.
+- thankYou
 
   (a) Top scorrers in T20 world cup
 
