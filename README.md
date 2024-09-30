@@ -9,7 +9,7 @@ This dashboard for a T20 analysis helps to identify the key performance indicato
 Once the KPIs are identified, the dashboard can be designed to provide a visual representation of these metrics, allowing teams and players to analyze their performance and identify areas for improvement.
 
 
-### Steps followed 
+## Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
